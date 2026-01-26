@@ -2,8 +2,8 @@
 
 This is my personal portfolio website built using HTML and CSS.
 
-## Live Website
-https://glowing-halibut-pjv7j9qpxwrj264wj-5501.app.github.dev/portfolio.html
+## My YouTube Channel
+https://youtube.com/@notfullerine?si=y835Q5vx9FEFt0LZ
 
 ## 🛠️ Technologies Used
 - HTML
